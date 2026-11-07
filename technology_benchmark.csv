@@ -1,0 +1,5 @@
+Dataset_Size,Pandas_Seconds,MapReduce_Style_Seconds,Spark_Seconds,Pandas_Max_Chunk_MB,MapReduce_Max_Chunk_MB,10M_Input_File_MB
+10K,0.12,0.12,13.33,11.84,11.84,
+100K,1.13,1.09,6.25,118.45,118.45,
+1M,13.1,13.03,22.3,118.45,118.45,
+10M,140.37,133.31,192.73,118.46,118.46,3057.6

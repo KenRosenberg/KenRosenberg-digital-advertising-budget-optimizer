@@ -1,0 +1,24 @@
+GITHUB UPLOAD GUIDE
+
+1. Open https://github.com/new
+2. Repository name: digital-advertising-budget-optimizer
+3. Description: Big Data Analytics project for digital advertising campaign analysis and budget recommendation.
+4. Choose Public or Private according to your instructor's requirements.
+5. Create the repository.
+6. Download this ZIP and extract it.
+7. In the GitHub repository page, choose Add file > Upload files.
+8. Upload the extracted project files and folders (not the ZIP itself).
+9. Before uploading, export your completed Colab notebook:
+   Colab > File > Download > Download .ipynb
+   Put the .ipynb file inside the notebooks/ folder.
+10. Do NOT upload the 3 GB advertising_10M.csv file. GitHub has file-size limits; keep it in Google Drive.
+11. Commit changes with message: "Add project analysis, results, and report".
+
+Recommended repository content:
+- README.md
+- reports/Digital_Advertising_Budget_Optimizer_Report.docx
+- results/platform_performance_and_budget.csv
+- results/technology_benchmark.csv
+- notebooks/<your-exported-colab-notebook>.ipynb
+
+After publishing, copy the GitHub repository URL and share it with your instructor.
